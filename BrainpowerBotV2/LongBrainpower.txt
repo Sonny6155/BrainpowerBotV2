@@ -1,0 +1,60 @@
+Are you ready?|0
+Are you ready?|20000
+Adrenaline is pumping|45500
+Adrenaline is pumping|48500
+Generator|51000
+Automatic Lover|53700
+Atomic, Atomic, Overdrive|57000
+Blockbuster|62000
+Brainpower|65000
+Call me a leader|69000
+Cocaine|70000
+Don't you try it|74000
+Don't you try it|76000
+Innovator|79000
+Killer machine|82000
+There's no fate|85000
+Take control|87500
+Brainpower|90000
+Let the bass kick|92000
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|93500
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|104500
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|115500
+O--------------------|126500
+Adrenaline is pumping|137500
+Adrenaline is pumping|140500
+Generator|143000
+Automatic Lover|145700
+Atomic, Atomic, Overdrive|149000
+Blockbuster|154000
+Brainpower|157000
+Call me a leader|161000
+Cocaine|162000
+Don't you try it|166000
+Don't you try it|168000
+Innovator|171000
+Killer machine|174000
+There's no fate|177000
+Take control|179500
+Brainpower|182000
+Let the bass kick|184000
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|185500
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|196500
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|207500
+O--------------------|218500
+AAAAE-A-A-I-A-U|228000
+AAE-O-A-A-U-U-A-E|240000
+AAAAE-A-A-I-A-U|251000
+Let the bass kick|262000
+AAAAE-A-A-I-A-U|273000
+AAE-O-A-A-U-U-A-E|284000
+AAAAE-A-A-I-A-U|295000
+Let the bass kick|308000
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|309500
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|320500
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA|331500
+O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo|342500
+EEEEO-A|352500
+EEEEO-A|353000
+EEEEO-A-AAA-AAAA|353500
+O--------------------|355000
